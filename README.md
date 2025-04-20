@@ -48,8 +48,8 @@ PayrollManagementSystem/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/payroll-management-system.git
-   cd payroll-management-system
+   git clone https://github.com/Dia-Ejaz/PayrollManagementSystem.git
+   cd PayrollManagementSystem
    ```
 
 2. **Set up the database (MSSQL)**
